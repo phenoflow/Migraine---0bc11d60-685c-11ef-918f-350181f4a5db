@@ -1,0 +1,15 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/migraine---icduncat.py
+inputModule3:
+  class: File
+  path: python/migraine-unclassified---icduncat.py
+inputModule4:
+  class: File
+  path: python/output-cases.py
